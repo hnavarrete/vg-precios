@@ -1,0 +1,2353 @@
+{
+ "contrato": "vg-precios/1",
+ "fuente_id": "cftc_cot",
+ "valor": "fondos_neto",
+ "series": {
+  "cacao": [
+   {
+    "fecha": "2023-10-03",
+    "fondos_neto": 56384,
+    "interes_abierto": 284276
+   },
+   {
+    "fecha": "2023-10-10",
+    "fondos_neto": 53014,
+    "interes_abierto": 281553
+   },
+   {
+    "fecha": "2023-10-17",
+    "fondos_neto": 60684,
+    "interes_abierto": 284934
+   },
+   {
+    "fecha": "2023-10-24",
+    "fondos_neto": 70165,
+    "interes_abierto": 312256
+   },
+   {
+    "fecha": "2023-10-31",
+    "fondos_neto": 69459,
+    "interes_abierto": 309716
+   },
+   {
+    "fecha": "2023-11-07",
+    "fondos_neto": 76829,
+    "interes_abierto": 308201
+   },
+   {
+    "fecha": "2023-11-14",
+    "fondos_neto": 76570,
+    "interes_abierto": 298572
+   },
+   {
+    "fecha": "2023-11-21",
+    "fondos_neto": 78564,
+    "interes_abierto": 278680
+   },
+   {
+    "fecha": "2023-11-28",
+    "fondos_neto": 77119,
+    "interes_abierto": 286199
+   },
+   {
+    "fecha": "2023-12-05",
+    "fondos_neto": 71029,
+    "interes_abierto": 281714
+   },
+   {
+    "fecha": "2023-12-12",
+    "fondos_neto": 71919,
+    "interes_abierto": 292284
+   },
+   {
+    "fecha": "2023-12-19",
+    "fondos_neto": 73181,
+    "interes_abierto": 295201
+   },
+   {
+    "fecha": "2023-12-26",
+    "fondos_neto": 71592,
+    "interes_abierto": 302302
+   },
+   {
+    "fecha": "2024-01-02",
+    "fondos_neto": 73391,
+    "interes_abierto": 313986
+   },
+   {
+    "fecha": "2024-01-09",
+    "fondos_neto": 70261,
+    "interes_abierto": 318120
+   },
+   {
+    "fecha": "2024-01-16",
+    "fondos_neto": 74665,
+    "interes_abierto": 325589
+   },
+   {
+    "fecha": "2024-01-23",
+    "fondos_neto": 82572,
+    "interes_abierto": 333669
+   },
+   {
+    "fecha": "2024-01-30",
+    "fondos_neto": 77231,
+    "interes_abierto": 327215
+   },
+   {
+    "fecha": "2024-02-06",
+    "fondos_neto": 69519,
+    "interes_abierto": 317683
+   },
+   {
+    "fecha": "2024-02-13",
+    "fondos_neto": 56217,
+    "interes_abierto": 271605
+   },
+   {
+    "fecha": "2024-02-20",
+    "fondos_neto": 52355,
+    "interes_abierto": 250109
+   },
+   {
+    "fecha": "2024-02-27",
+    "fondos_neto": 45112,
+    "interes_abierto": 220865
+   },
+   {
+    "fecha": "2024-03-05",
+    "fondos_neto": 43044,
+    "interes_abierto": 207303
+   },
+   {
+    "fecha": "2024-03-12",
+    "fondos_neto": 41314,
+    "interes_abierto": 210691
+   },
+   {
+    "fecha": "2024-03-19",
+    "fondos_neto": 34157,
+    "interes_abierto": 207168
+   },
+   {
+    "fecha": "2024-03-26",
+    "fondos_neto": 31306,
+    "interes_abierto": 201309
+   },
+   {
+    "fecha": "2024-04-02",
+    "fondos_neto": 25508,
+    "interes_abierto": 184072
+   },
+   {
+    "fecha": "2024-04-09",
+    "fondos_neto": 25395,
+    "interes_abierto": 165569
+   },
+   {
+    "fecha": "2024-04-16",
+    "fondos_neto": 20174,
+    "interes_abierto": 159325
+   },
+   {
+    "fecha": "2024-04-23",
+    "fondos_neto": 17512,
+    "interes_abierto": 152895
+   },
+   {
+    "fecha": "2024-04-30",
+    "fondos_neto": 20195,
+    "interes_abierto": 152039
+   },
+   {
+    "fecha": "2024-05-07",
+    "fondos_neto": 21504,
+    "interes_abierto": 147634
+   },
+   {
+    "fecha": "2024-05-14",
+    "fondos_neto": 21875,
+    "interes_abierto": 146340
+   },
+   {
+    "fecha": "2024-05-21",
+    "fondos_neto": 22535,
+    "interes_abierto": 147365
+   },
+   {
+    "fecha": "2024-05-28",
+    "fondos_neto": 25433,
+    "interes_abierto": 152919
+   },
+   {
+    "fecha": "2024-06-04",
+    "fondos_neto": 27637,
+    "interes_abierto": 155918
+   },
+   {
+    "fecha": "2024-06-11",
+    "fondos_neto": 27281,
+    "interes_abierto": 141332
+   },
+   {
+    "fecha": "2024-06-18",
+    "fondos_neto": 26534,
+    "interes_abierto": 137684
+   },
+   {
+    "fecha": "2024-06-25",
+    "fondos_neto": 23099,
+    "interes_abierto": 134640
+   },
+   {
+    "fecha": "2024-07-02",
+    "fondos_neto": 22039,
+    "interes_abierto": 135205
+   },
+   {
+    "fecha": "2024-07-09",
+    "fondos_neto": 22940,
+    "interes_abierto": 138433
+   },
+   {
+    "fecha": "2024-07-16",
+    "fondos_neto": 24071,
+    "interes_abierto": 137803
+   },
+   {
+    "fecha": "2024-07-23",
+    "fondos_neto": 25975,
+    "interes_abierto": 139449
+   },
+   {
+    "fecha": "2024-07-30",
+    "fondos_neto": 25727,
+    "interes_abierto": 140283
+   },
+   {
+    "fecha": "2024-08-06",
+    "fondos_neto": 27774,
+    "interes_abierto": 137261
+   },
+   {
+    "fecha": "2024-08-13",
+    "fondos_neto": 30301,
+    "interes_abierto": 134930
+   },
+   {
+    "fecha": "2024-08-20",
+    "fondos_neto": 31436,
+    "interes_abierto": 133444
+   },
+   {
+    "fecha": "2024-08-27",
+    "fondos_neto": 33267,
+    "interes_abierto": 138677
+   },
+   {
+    "fecha": "2024-09-03",
+    "fondos_neto": 32025,
+    "interes_abierto": 138428
+   },
+   {
+    "fecha": "2024-09-10",
+    "fondos_neto": 31709,
+    "interes_abierto": 138537
+   },
+   {
+    "fecha": "2024-09-17",
+    "fondos_neto": 35355,
+    "interes_abierto": 143433
+   },
+   {
+    "fecha": "2024-09-24",
+    "fondos_neto": 38004,
+    "interes_abierto": 147665
+   },
+   {
+    "fecha": "2024-10-01",
+    "fondos_neto": 39976,
+    "interes_abierto": 148224
+   },
+   {
+    "fecha": "2024-10-08",
+    "fondos_neto": 38120,
+    "interes_abierto": 137394
+   },
+   {
+    "fecha": "2024-10-15",
+    "fondos_neto": 40854,
+    "interes_abierto": 142634
+   },
+   {
+    "fecha": "2024-10-22",
+    "fondos_neto": 38614,
+    "interes_abierto": 140267
+   },
+   {
+    "fecha": "2024-10-29",
+    "fondos_neto": 35583,
+    "interes_abierto": 131389
+   },
+   {
+    "fecha": "2024-11-05",
+    "fondos_neto": 33353,
+    "interes_abierto": 125901
+   },
+   {
+    "fecha": "2024-11-12",
+    "fondos_neto": 34732,
+    "interes_abierto": 122337
+   },
+   {
+    "fecha": "2024-11-19",
+    "fondos_neto": 38020,
+    "interes_abierto": 129440
+   },
+   {
+    "fecha": "2024-11-26",
+    "fondos_neto": 41353,
+    "interes_abierto": 130183
+   },
+   {
+    "fecha": "2024-12-03",
+    "fondos_neto": 40391,
+    "interes_abierto": 130235
+   },
+   {
+    "fecha": "2024-12-10",
+    "fondos_neto": 38253,
+    "interes_abierto": 129117
+   },
+   {
+    "fecha": "2024-12-17",
+    "fondos_neto": 35626,
+    "interes_abierto": 127978
+   },
+   {
+    "fecha": "2024-12-24",
+    "fondos_neto": 37067,
+    "interes_abierto": 125355
+   },
+   {
+    "fecha": "2024-12-31",
+    "fondos_neto": 38090,
+    "interes_abierto": 125977
+   },
+   {
+    "fecha": "2025-01-07",
+    "fondos_neto": 35138,
+    "interes_abierto": 126583
+   },
+   {
+    "fecha": "2025-01-14",
+    "fondos_neto": 35498,
+    "interes_abierto": 124919
+   },
+   {
+    "fecha": "2025-01-21",
+    "fondos_neto": 35522,
+    "interes_abierto": 124343
+   },
+   {
+    "fecha": "2025-01-28",
+    "fondos_neto": 34351,
+    "interes_abierto": 123384
+   },
+   {
+    "fecha": "2025-02-04",
+    "fondos_neto": 31972,
+    "interes_abierto": 128423
+   },
+   {
+    "fecha": "2025-02-11",
+    "fondos_neto": 29808,
+    "interes_abierto": 121018
+   },
+   {
+    "fecha": "2025-02-18",
+    "fondos_neto": 29574,
+    "interes_abierto": 115974
+   },
+   {
+    "fecha": "2025-02-25",
+    "fondos_neto": 18466,
+    "interes_abierto": 108662
+   },
+   {
+    "fecha": "2025-03-04",
+    "fondos_neto": 16299,
+    "interes_abierto": 101302
+   },
+   {
+    "fecha": "2025-03-11",
+    "fondos_neto": 15733,
+    "interes_abierto": 104926
+   },
+   {
+    "fecha": "2025-03-18",
+    "fondos_neto": 14626,
+    "interes_abierto": 104840
+   },
+   {
+    "fecha": "2025-03-25",
+    "fondos_neto": 15340,
+    "interes_abierto": 103546
+   },
+   {
+    "fecha": "2025-04-01",
+    "fondos_neto": 17242,
+    "interes_abierto": 109183
+   },
+   {
+    "fecha": "2025-04-08",
+    "fondos_neto": 17166,
+    "interes_abierto": 95581
+   },
+   {
+    "fecha": "2025-04-15",
+    "fondos_neto": 12619,
+    "interes_abierto": 90046
+   },
+   {
+    "fecha": "2025-04-22",
+    "fondos_neto": 13933,
+    "interes_abierto": 86919
+   },
+   {
+    "fecha": "2025-04-29",
+    "fondos_neto": 15263,
+    "interes_abierto": 89727
+   },
+   {
+    "fecha": "2025-05-06",
+    "fondos_neto": 14810,
+    "interes_abierto": 90835
+   },
+   {
+    "fecha": "2025-05-13",
+    "fondos_neto": 18866,
+    "interes_abierto": 96891
+   },
+   {
+    "fecha": "2025-05-20",
+    "fondos_neto": 22069,
+    "interes_abierto": 104424
+   },
+   {
+    "fecha": "2025-05-27",
+    "fondos_neto": 19097,
+    "interes_abierto": 101488
+   },
+   {
+    "fecha": "2025-06-03",
+    "fondos_neto": 16174,
+    "interes_abierto": 100231
+   },
+   {
+    "fecha": "2025-06-10",
+    "fondos_neto": 16408,
+    "interes_abierto": 100052
+   },
+   {
+    "fecha": "2025-06-17",
+    "fondos_neto": 17471,
+    "interes_abierto": 89437
+   },
+   {
+    "fecha": "2025-06-24",
+    "fondos_neto": 14621,
+    "interes_abierto": 88225
+   },
+   {
+    "fecha": "2025-07-01",
+    "fondos_neto": 15242,
+    "interes_abierto": 88382
+   },
+   {
+    "fecha": "2025-07-08",
+    "fondos_neto": 13231,
+    "interes_abierto": 92353
+   },
+   {
+    "fecha": "2025-07-15",
+    "fondos_neto": 11857,
+    "interes_abierto": 95996
+   },
+   {
+    "fecha": "2025-07-22",
+    "fondos_neto": 9053,
+    "interes_abierto": 93203
+   },
+   {
+    "fecha": "2025-07-29",
+    "fondos_neto": 10798,
+    "interes_abierto": 93823
+   },
+   {
+    "fecha": "2025-08-05",
+    "fondos_neto": 11137,
+    "interes_abierto": 95061
+   },
+   {
+    "fecha": "2025-08-12",
+    "fondos_neto": 14296,
+    "interes_abierto": 97776
+   },
+   {
+    "fecha": "2025-08-19",
+    "fondos_neto": 13549,
+    "interes_abierto": 92010
+   },
+   {
+    "fecha": "2025-08-26",
+    "fondos_neto": 10753,
+    "interes_abierto": 89678
+   },
+   {
+    "fecha": "2025-09-02",
+    "fondos_neto": 9703,
+    "interes_abierto": 90201
+   },
+   {
+    "fecha": "2025-09-09",
+    "fondos_neto": 8610,
+    "interes_abierto": 93806
+   },
+   {
+    "fecha": "2025-09-16",
+    "fondos_neto": 8348,
+    "interes_abierto": 96954
+   },
+   {
+    "fecha": "2025-09-23",
+    "fondos_neto": 6852,
+    "interes_abierto": 103388
+   },
+   {
+    "fecha": "2025-09-30",
+    "fondos_neto": 6622,
+    "interes_abierto": 113029
+   },
+   {
+    "fecha": "2025-10-07",
+    "fondos_neto": 5730,
+    "interes_abierto": 120643
+   },
+   {
+    "fecha": "2025-10-14",
+    "fondos_neto": 609,
+    "interes_abierto": 120419
+   },
+   {
+    "fecha": "2025-10-21",
+    "fondos_neto": -918,
+    "interes_abierto": 122332
+   },
+   {
+    "fecha": "2025-10-28",
+    "fondos_neto": 1981,
+    "interes_abierto": 121995
+   },
+   {
+    "fecha": "2025-11-04",
+    "fondos_neto": 3999,
+    "interes_abierto": 122872
+   },
+   {
+    "fecha": "2025-11-10",
+    "fondos_neto": 1527,
+    "interes_abierto": 119330
+   },
+   {
+    "fecha": "2025-11-18",
+    "fondos_neto": -8567,
+    "interes_abierto": 115855
+   },
+   {
+    "fecha": "2025-11-25",
+    "fondos_neto": -11088,
+    "interes_abierto": 119337
+   },
+   {
+    "fecha": "2025-12-02",
+    "fondos_neto": -12703,
+    "interes_abierto": 119508
+   },
+   {
+    "fecha": "2025-12-09",
+    "fondos_neto": -8498,
+    "interes_abierto": 123407
+   },
+   {
+    "fecha": "2025-12-16",
+    "fondos_neto": -4433,
+    "interes_abierto": 119328
+   },
+   {
+    "fecha": "2025-12-23",
+    "fondos_neto": -3372,
+    "interes_abierto": 123937
+   },
+   {
+    "fecha": "2025-12-30",
+    "fondos_neto": -1716,
+    "interes_abierto": 124018
+   },
+   {
+    "fecha": "2026-01-06",
+    "fondos_neto": 141,
+    "interes_abierto": 127271
+   },
+   {
+    "fecha": "2026-01-13",
+    "fondos_neto": -7107,
+    "interes_abierto": 138452
+   },
+   {
+    "fecha": "2026-01-20",
+    "fondos_neto": -11329,
+    "interes_abierto": 145503
+   },
+   {
+    "fecha": "2026-01-27",
+    "fondos_neto": -9503,
+    "interes_abierto": 149397
+   },
+   {
+    "fecha": "2026-02-03",
+    "fondos_neto": -10330,
+    "interes_abierto": 160254
+   },
+   {
+    "fecha": "2026-02-10",
+    "fondos_neto": -11494,
+    "interes_abierto": 162798
+   },
+   {
+    "fecha": "2026-02-17",
+    "fondos_neto": -11874,
+    "interes_abierto": 154642
+   },
+   {
+    "fecha": "2026-02-24",
+    "fondos_neto": -6916,
+    "interes_abierto": 173446
+   },
+   {
+    "fecha": "2026-03-03",
+    "fondos_neto": -4087,
+    "interes_abierto": 191812
+   },
+   {
+    "fecha": "2026-03-10",
+    "fondos_neto": -7726,
+    "interes_abierto": 192004
+   },
+   {
+    "fecha": "2026-03-17",
+    "fondos_neto": -7104,
+    "interes_abierto": 189306
+   },
+   {
+    "fecha": "2026-03-24",
+    "fondos_neto": -9114,
+    "interes_abierto": 194510
+   },
+   {
+    "fecha": "2026-03-31",
+    "fondos_neto": -10132,
+    "interes_abierto": 203517
+   },
+   {
+    "fecha": "2026-04-07",
+    "fondos_neto": -12616,
+    "interes_abierto": 204934
+   },
+   {
+    "fecha": "2026-04-14",
+    "fondos_neto": -14015,
+    "interes_abierto": 196601
+   },
+   {
+    "fecha": "2026-04-21",
+    "fondos_neto": -13361,
+    "interes_abierto": 194519
+   },
+   {
+    "fecha": "2026-04-28",
+    "fondos_neto": -17106,
+    "interes_abierto": 197114
+   },
+   {
+    "fecha": "2026-05-05",
+    "fondos_neto": -11592,
+    "interes_abierto": 200360
+   },
+   {
+    "fecha": "2026-05-12",
+    "fondos_neto": -9912,
+    "interes_abierto": 194369
+   },
+   {
+    "fecha": "2026-05-19",
+    "fondos_neto": -12462,
+    "interes_abierto": 193578
+   },
+   {
+    "fecha": "2026-05-26",
+    "fondos_neto": -13816,
+    "interes_abierto": 202939
+   },
+   {
+    "fecha": "2026-06-02",
+    "fondos_neto": -16604,
+    "interes_abierto": 205076
+   },
+   {
+    "fecha": "2026-06-09",
+    "fondos_neto": -23084,
+    "interes_abierto": 203246
+   },
+   {
+    "fecha": "2026-06-16",
+    "fondos_neto": -20556,
+    "interes_abierto": 193018
+   },
+   {
+    "fecha": "2026-06-23",
+    "fondos_neto": -18099,
+    "interes_abierto": 182500
+   },
+   {
+    "fecha": "2026-06-30",
+    "fondos_neto": -10525,
+    "interes_abierto": 186481
+   },
+   {
+    "fecha": "2026-07-07",
+    "fondos_neto": -5864,
+    "interes_abierto": 197971
+   },
+   {
+    "fecha": "2026-07-14",
+    "fondos_neto": -7114,
+    "interes_abierto": 203748
+   },
+   {
+    "fecha": "2026-07-21",
+    "fondos_neto": -6976,
+    "interes_abierto": 201552
+   },
+   {
+    "fecha": "2026-07-28",
+    "fondos_neto": -8773,
+    "interes_abierto": 201223
+   },
+   {
+    "fecha": "2026-08-04",
+    "fondos_neto": -4670,
+    "interes_abierto": 203398
+   },
+   {
+    "fecha": "2026-08-11",
+    "fondos_neto": -6667,
+    "interes_abierto": 190891
+   },
+   {
+    "fecha": "2026-08-18",
+    "fondos_neto": -9371,
+    "interes_abierto": 175361
+   },
+   {
+    "fecha": "2026-08-25",
+    "fondos_neto": -10458,
+    "interes_abierto": 172846
+   },
+   {
+    "fecha": "2026-09-01",
+    "fondos_neto": -4750,
+    "interes_abierto": 178298
+   },
+   {
+    "fecha": "2026-09-08",
+    "fondos_neto": -8757,
+    "interes_abierto": 178092
+   },
+   {
+    "fecha": "2026-09-15",
+    "fondos_neto": -9539,
+    "interes_abierto": 182691
+   },
+   {
+    "fecha": "2026-09-22",
+    "fondos_neto": -16406,
+    "interes_abierto": 178964
+   }
+  ],
+  "cafe": [
+   {
+    "fecha": "2023-10-03",
+    "fondos_neto": -26594,
+    "interes_abierto": 210215
+   },
+   {
+    "fecha": "2023-10-10",
+    "fondos_neto": -29228,
+    "interes_abierto": 217692
+   },
+   {
+    "fecha": "2023-10-17",
+    "fondos_neto": -17850,
+    "interes_abierto": 215771
+   },
+   {
+    "fecha": "2023-10-24",
+    "fondos_neto": 8452,
+    "interes_abierto": 199646
+   },
+   {
+    "fecha": "2023-10-31",
+    "fondos_neto": 14312,
+    "interes_abierto": 203130
+   },
+   {
+    "fecha": "2023-11-07",
+    "fondos_neto": 17900,
+    "interes_abierto": 201099
+   },
+   {
+    "fecha": "2023-11-14",
+    "fondos_neto": 25859,
+    "interes_abierto": 189044
+   },
+   {
+    "fecha": "2023-11-21",
+    "fondos_neto": 27705,
+    "interes_abierto": 188924
+   },
+   {
+    "fecha": "2023-11-28",
+    "fondos_neto": 28271,
+    "interes_abierto": 193911
+   },
+   {
+    "fecha": "2023-12-05",
+    "fondos_neto": 35788,
+    "interes_abierto": 208686
+   },
+   {
+    "fecha": "2023-12-12",
+    "fondos_neto": 35193,
+    "interes_abierto": 210390
+   },
+   {
+    "fecha": "2023-12-19",
+    "fondos_neto": 43735,
+    "interes_abierto": 220570
+   },
+   {
+    "fecha": "2023-12-26",
+    "fondos_neto": 44169,
+    "interes_abierto": 220852
+   },
+   {
+    "fecha": "2024-01-02",
+    "fondos_neto": 45546,
+    "interes_abierto": 223299
+   },
+   {
+    "fecha": "2024-01-09",
+    "fondos_neto": 45890,
+    "interes_abierto": 220376
+   },
+   {
+    "fecha": "2024-01-16",
+    "fondos_neto": 46436,
+    "interes_abierto": 221338
+   },
+   {
+    "fecha": "2024-01-23",
+    "fondos_neto": 49655,
+    "interes_abierto": 222322
+   },
+   {
+    "fecha": "2024-01-30",
+    "fondos_neto": 52741,
+    "interes_abierto": 225509
+   },
+   {
+    "fecha": "2024-02-06",
+    "fondos_neto": 52261,
+    "interes_abierto": 234432
+   },
+   {
+    "fecha": "2024-02-13",
+    "fondos_neto": 53591,
+    "interes_abierto": 224284
+   },
+   {
+    "fecha": "2024-02-20",
+    "fondos_neto": 49339,
+    "interes_abierto": 206496
+   },
+   {
+    "fecha": "2024-02-27",
+    "fondos_neto": 46089,
+    "interes_abierto": 209453
+   },
+   {
+    "fecha": "2024-03-05",
+    "fondos_neto": 46933,
+    "interes_abierto": 217132
+   },
+   {
+    "fecha": "2024-03-12",
+    "fondos_neto": 50317,
+    "interes_abierto": 215929
+   },
+   {
+    "fecha": "2024-03-19",
+    "fondos_neto": 44742,
+    "interes_abierto": 218596
+   },
+   {
+    "fecha": "2024-03-26",
+    "fondos_neto": 49501,
+    "interes_abierto": 235994
+   },
+   {
+    "fecha": "2024-04-02",
+    "fondos_neto": 58878,
+    "interes_abierto": 247741
+   },
+   {
+    "fecha": "2024-04-09",
+    "fondos_neto": 68848,
+    "interes_abierto": 246385
+   },
+   {
+    "fecha": "2024-04-16",
+    "fondos_neto": 72818,
+    "interes_abierto": 242871
+   },
+   {
+    "fecha": "2024-04-23",
+    "fondos_neto": 69956,
+    "interes_abierto": 237477
+   },
+   {
+    "fecha": "2024-04-30",
+    "fondos_neto": 69648,
+    "interes_abierto": 235673
+   },
+   {
+    "fecha": "2024-05-07",
+    "fondos_neto": 60824,
+    "interes_abierto": 227220
+   },
+   {
+    "fecha": "2024-05-14",
+    "fondos_neto": 54069,
+    "interes_abierto": 223287
+   },
+   {
+    "fecha": "2024-05-21",
+    "fondos_neto": 53289,
+    "interes_abierto": 222800
+   },
+   {
+    "fecha": "2024-05-28",
+    "fondos_neto": 57013,
+    "interes_abierto": 233839
+   },
+   {
+    "fecha": "2024-06-04",
+    "fondos_neto": 63220,
+    "interes_abierto": 250691
+   },
+   {
+    "fecha": "2024-06-11",
+    "fondos_neto": 62937,
+    "interes_abierto": 244819
+   },
+   {
+    "fecha": "2024-06-18",
+    "fondos_neto": 62081,
+    "interes_abierto": 203929
+   },
+   {
+    "fecha": "2024-06-25",
+    "fondos_neto": 65158,
+    "interes_abierto": 208029
+   },
+   {
+    "fecha": "2024-07-02",
+    "fondos_neto": 61536,
+    "interes_abierto": 211372
+   },
+   {
+    "fecha": "2024-07-09",
+    "fondos_neto": 67635,
+    "interes_abierto": 221963
+   },
+   {
+    "fecha": "2024-07-16",
+    "fondos_neto": 63752,
+    "interes_abierto": 230289
+   },
+   {
+    "fecha": "2024-07-23",
+    "fondos_neto": 59359,
+    "interes_abierto": 241117
+   },
+   {
+    "fecha": "2024-07-30",
+    "fondos_neto": 55275,
+    "interes_abierto": 253876
+   },
+   {
+    "fecha": "2024-08-06",
+    "fondos_neto": 51202,
+    "interes_abierto": 243034
+   },
+   {
+    "fecha": "2024-08-13",
+    "fondos_neto": 52259,
+    "interes_abierto": 195236
+   },
+   {
+    "fecha": "2024-08-20",
+    "fondos_neto": 56989,
+    "interes_abierto": 193447
+   },
+   {
+    "fecha": "2024-08-27",
+    "fondos_neto": 58154,
+    "interes_abierto": 194404
+   },
+   {
+    "fecha": "2024-09-03",
+    "fondos_neto": 56668,
+    "interes_abierto": 196203
+   },
+   {
+    "fecha": "2024-09-10",
+    "fondos_neto": 57030,
+    "interes_abierto": 194516
+   },
+   {
+    "fecha": "2024-09-17",
+    "fondos_neto": 60830,
+    "interes_abierto": 206248
+   },
+   {
+    "fecha": "2024-09-24",
+    "fondos_neto": 61472,
+    "interes_abierto": 209027
+   },
+   {
+    "fecha": "2024-10-01",
+    "fondos_neto": 60792,
+    "interes_abierto": 210615
+   },
+   {
+    "fecha": "2024-10-08",
+    "fondos_neto": 54236,
+    "interes_abierto": 211716
+   },
+   {
+    "fecha": "2024-10-15",
+    "fondos_neto": 57156,
+    "interes_abierto": 215123
+   },
+   {
+    "fecha": "2024-10-22",
+    "fondos_neto": 58254,
+    "interes_abierto": 217970
+   },
+   {
+    "fecha": "2024-10-29",
+    "fondos_neto": 56436,
+    "interes_abierto": 215285
+   },
+   {
+    "fecha": "2024-11-05",
+    "fondos_neto": 53832,
+    "interes_abierto": 218149
+   },
+   {
+    "fecha": "2024-11-12",
+    "fondos_neto": 57875,
+    "interes_abierto": 205251
+   },
+   {
+    "fecha": "2024-11-19",
+    "fondos_neto": 61583,
+    "interes_abierto": 199432
+   },
+   {
+    "fecha": "2024-11-26",
+    "fondos_neto": 62500,
+    "interes_abierto": 204329
+   },
+   {
+    "fecha": "2024-12-03",
+    "fondos_neto": 59306,
+    "interes_abierto": 202088
+   },
+   {
+    "fecha": "2024-12-10",
+    "fondos_neto": 58751,
+    "interes_abierto": 204227
+   },
+   {
+    "fecha": "2024-12-17",
+    "fondos_neto": 55993,
+    "interes_abierto": 199746
+   },
+   {
+    "fecha": "2024-12-24",
+    "fondos_neto": 57519,
+    "interes_abierto": 193305
+   },
+   {
+    "fecha": "2024-12-31",
+    "fondos_neto": 56908,
+    "interes_abierto": 192111
+   },
+   {
+    "fecha": "2025-01-07",
+    "fondos_neto": 58675,
+    "interes_abierto": 194280
+   },
+   {
+    "fecha": "2025-01-14",
+    "fondos_neto": 60642,
+    "interes_abierto": 187855
+   },
+   {
+    "fecha": "2025-01-21",
+    "fondos_neto": 62912,
+    "interes_abierto": 188450
+   },
+   {
+    "fecha": "2025-01-28",
+    "fondos_neto": 66006,
+    "interes_abierto": 194951
+   },
+   {
+    "fecha": "2025-02-04",
+    "fondos_neto": 66107,
+    "interes_abierto": 193787
+   },
+   {
+    "fecha": "2025-02-11",
+    "fondos_neto": 61353,
+    "interes_abierto": 192342
+   },
+   {
+    "fecha": "2025-02-18",
+    "fondos_neto": 60925,
+    "interes_abierto": 162683
+   },
+   {
+    "fecha": "2025-02-25",
+    "fondos_neto": 58857,
+    "interes_abierto": 161872
+   },
+   {
+    "fecha": "2025-03-04",
+    "fondos_neto": 56675,
+    "interes_abierto": 162373
+   },
+   {
+    "fecha": "2025-03-11",
+    "fondos_neto": 54725,
+    "interes_abierto": 165950
+   },
+   {
+    "fecha": "2025-03-18",
+    "fondos_neto": 53209,
+    "interes_abierto": 168654
+   },
+   {
+    "fecha": "2025-03-25",
+    "fondos_neto": 55702,
+    "interes_abierto": 175814
+   },
+   {
+    "fecha": "2025-04-01",
+    "fondos_neto": 52423,
+    "interes_abierto": 177426
+   },
+   {
+    "fecha": "2025-04-08",
+    "fondos_neto": 42075,
+    "interes_abierto": 172826
+   },
+   {
+    "fecha": "2025-04-15",
+    "fondos_neto": 35234,
+    "interes_abierto": 149805
+   },
+   {
+    "fecha": "2025-04-22",
+    "fondos_neto": 36923,
+    "interes_abierto": 146006
+   },
+   {
+    "fecha": "2025-04-29",
+    "fondos_neto": 44404,
+    "interes_abierto": 155503
+   },
+   {
+    "fecha": "2025-05-06",
+    "fondos_neto": 43952,
+    "interes_abierto": 154370
+   },
+   {
+    "fecha": "2025-05-13",
+    "fondos_neto": 41733,
+    "interes_abierto": 154524
+   },
+   {
+    "fecha": "2025-05-20",
+    "fondos_neto": 39481,
+    "interes_abierto": 150118
+   },
+   {
+    "fecha": "2025-05-27",
+    "fondos_neto": 36954,
+    "interes_abierto": 153055
+   },
+   {
+    "fecha": "2025-06-03",
+    "fondos_neto": 31874,
+    "interes_abierto": 158180
+   },
+   {
+    "fecha": "2025-06-10",
+    "fondos_neto": 33582,
+    "interes_abierto": 158885
+   },
+   {
+    "fecha": "2025-06-17",
+    "fondos_neto": 30839,
+    "interes_abierto": 143735
+   },
+   {
+    "fecha": "2025-06-24",
+    "fondos_neto": 26376,
+    "interes_abierto": 147385
+   },
+   {
+    "fecha": "2025-07-01",
+    "fondos_neto": 24647,
+    "interes_abierto": 148342
+   },
+   {
+    "fecha": "2025-07-08",
+    "fondos_neto": 24401,
+    "interes_abierto": 150075
+   },
+   {
+    "fecha": "2025-07-15",
+    "fondos_neto": 25964,
+    "interes_abierto": 150606
+   },
+   {
+    "fecha": "2025-07-22",
+    "fondos_neto": 27117,
+    "interes_abierto": 152845
+   },
+   {
+    "fecha": "2025-07-29",
+    "fondos_neto": 26324,
+    "interes_abierto": 155650
+   },
+   {
+    "fecha": "2025-08-05",
+    "fondos_neto": 26189,
+    "interes_abierto": 162429
+   },
+   {
+    "fecha": "2025-08-12",
+    "fondos_neto": 24365,
+    "interes_abierto": 146352
+   },
+   {
+    "fecha": "2025-08-19",
+    "fondos_neto": 26009,
+    "interes_abierto": 152281
+   },
+   {
+    "fecha": "2025-08-26",
+    "fondos_neto": 31441,
+    "interes_abierto": 161225
+   },
+   {
+    "fecha": "2025-09-02",
+    "fondos_neto": 35708,
+    "interes_abierto": 170009
+   },
+   {
+    "fecha": "2025-09-09",
+    "fondos_neto": 39779,
+    "interes_abierto": 176855
+   },
+   {
+    "fecha": "2025-09-16",
+    "fondos_neto": 41161,
+    "interes_abierto": 176005
+   },
+   {
+    "fecha": "2025-09-23",
+    "fondos_neto": 40306,
+    "interes_abierto": 169676
+   },
+   {
+    "fecha": "2025-09-30",
+    "fondos_neto": 40975,
+    "interes_abierto": 165749
+   },
+   {
+    "fecha": "2025-10-07",
+    "fondos_neto": 43384,
+    "interes_abierto": 168490
+   },
+   {
+    "fecha": "2025-10-14",
+    "fondos_neto": 48189,
+    "interes_abierto": 175792
+   },
+   {
+    "fecha": "2025-10-21",
+    "fondos_neto": 50151,
+    "interes_abierto": 176952
+   },
+   {
+    "fecha": "2025-10-28",
+    "fondos_neto": 49720,
+    "interes_abierto": 173876
+   },
+   {
+    "fecha": "2025-11-04",
+    "fondos_neto": 48758,
+    "interes_abierto": 176007
+   },
+   {
+    "fecha": "2025-11-10",
+    "fondos_neto": 48249,
+    "interes_abierto": 176586
+   },
+   {
+    "fecha": "2025-11-18",
+    "fondos_neto": 41168,
+    "interes_abierto": 155331
+   },
+   {
+    "fecha": "2025-11-25",
+    "fondos_neto": 38494,
+    "interes_abierto": 159439
+   },
+   {
+    "fecha": "2025-12-02",
+    "fondos_neto": 38427,
+    "interes_abierto": 158348
+   },
+   {
+    "fecha": "2025-12-09",
+    "fondos_neto": 38604,
+    "interes_abierto": 163907
+   },
+   {
+    "fecha": "2025-12-16",
+    "fondos_neto": 35313,
+    "interes_abierto": 160631
+   },
+   {
+    "fecha": "2025-12-23",
+    "fondos_neto": 29597,
+    "interes_abierto": 161478
+   },
+   {
+    "fecha": "2025-12-30",
+    "fondos_neto": 30403,
+    "interes_abierto": 164520
+   },
+   {
+    "fecha": "2026-01-06",
+    "fondos_neto": 34366,
+    "interes_abierto": 170823
+   },
+   {
+    "fecha": "2026-01-13",
+    "fondos_neto": 35245,
+    "interes_abierto": 170695
+   },
+   {
+    "fecha": "2026-01-20",
+    "fondos_neto": 33464,
+    "interes_abierto": 170437
+   },
+   {
+    "fecha": "2026-01-27",
+    "fondos_neto": 35947,
+    "interes_abierto": 174890
+   },
+   {
+    "fecha": "2026-02-03",
+    "fondos_neto": 25674,
+    "interes_abierto": 179573
+   },
+   {
+    "fecha": "2026-02-10",
+    "fondos_neto": 19077,
+    "interes_abierto": 175044
+   },
+   {
+    "fecha": "2026-02-17",
+    "fondos_neto": 18072,
+    "interes_abierto": 156645
+   },
+   {
+    "fecha": "2026-02-24",
+    "fondos_neto": 16856,
+    "interes_abierto": 164239
+   },
+   {
+    "fecha": "2026-03-03",
+    "fondos_neto": 16465,
+    "interes_abierto": 169433
+   },
+   {
+    "fecha": "2026-03-10",
+    "fondos_neto": 18663,
+    "interes_abierto": 167071
+   },
+   {
+    "fecha": "2026-03-17",
+    "fondos_neto": 24252,
+    "interes_abierto": 173683
+   },
+   {
+    "fecha": "2026-03-24",
+    "fondos_neto": 29997,
+    "interes_abierto": 174861
+   },
+   {
+    "fecha": "2026-03-31",
+    "fondos_neto": 30711,
+    "interes_abierto": 175500
+   },
+   {
+    "fecha": "2026-04-07",
+    "fondos_neto": 27587,
+    "interes_abierto": 176140
+   },
+   {
+    "fecha": "2026-04-14",
+    "fondos_neto": 29570,
+    "interes_abierto": 168563
+   },
+   {
+    "fecha": "2026-04-21",
+    "fondos_neto": 27080,
+    "interes_abierto": 162870
+   },
+   {
+    "fecha": "2026-04-28",
+    "fondos_neto": 32732,
+    "interes_abierto": 171239
+   },
+   {
+    "fecha": "2026-05-05",
+    "fondos_neto": 34843,
+    "interes_abierto": 176045
+   },
+   {
+    "fecha": "2026-05-12",
+    "fondos_neto": 30370,
+    "interes_abierto": 182249
+   },
+   {
+    "fecha": "2026-05-19",
+    "fondos_neto": 24586,
+    "interes_abierto": 189817
+   },
+   {
+    "fecha": "2026-05-26",
+    "fondos_neto": 22973,
+    "interes_abierto": 193648
+   },
+   {
+    "fecha": "2026-06-02",
+    "fondos_neto": 19624,
+    "interes_abierto": 202855
+   },
+   {
+    "fecha": "2026-06-09",
+    "fondos_neto": 11863,
+    "interes_abierto": 213519
+   },
+   {
+    "fecha": "2026-06-16",
+    "fondos_neto": 14007,
+    "interes_abierto": 193019
+   },
+   {
+    "fecha": "2026-06-23",
+    "fondos_neto": 20918,
+    "interes_abierto": 186617
+   },
+   {
+    "fecha": "2026-06-30",
+    "fondos_neto": 27377,
+    "interes_abierto": 183728
+   },
+   {
+    "fecha": "2026-07-07",
+    "fondos_neto": 34454,
+    "interes_abierto": 174440
+   },
+   {
+    "fecha": "2026-07-14",
+    "fondos_neto": 32834,
+    "interes_abierto": 166843
+   },
+   {
+    "fecha": "2026-07-21",
+    "fondos_neto": 33219,
+    "interes_abierto": 163057
+   },
+   {
+    "fecha": "2026-07-28",
+    "fondos_neto": 33499,
+    "interes_abierto": 164447
+   },
+   {
+    "fecha": "2026-08-04",
+    "fondos_neto": 31441,
+    "interes_abierto": 168814
+   },
+   {
+    "fecha": "2026-08-11",
+    "fondos_neto": 32433,
+    "interes_abierto": 173839
+   },
+   {
+    "fecha": "2026-08-18",
+    "fondos_neto": 31612,
+    "interes_abierto": 163299
+   },
+   {
+    "fecha": "2026-08-25",
+    "fondos_neto": 31188,
+    "interes_abierto": 160035
+   },
+   {
+    "fecha": "2026-09-01",
+    "fondos_neto": 26729,
+    "interes_abierto": 155275
+   },
+   {
+    "fecha": "2026-09-08",
+    "fondos_neto": 22109,
+    "interes_abierto": 152136
+   },
+   {
+    "fecha": "2026-09-15",
+    "fondos_neto": 20661,
+    "interes_abierto": 150458
+   },
+   {
+    "fecha": "2026-09-22",
+    "fondos_neto": 15806,
+    "interes_abierto": 153035
+   }
+  ],
+  "azucar": [
+   {
+    "fecha": "2023-10-03",
+    "fondos_neto": 182511,
+    "interes_abierto": 820468
+   },
+   {
+    "fecha": "2023-10-10",
+    "fondos_neto": 181748,
+    "interes_abierto": 821749
+   },
+   {
+    "fecha": "2023-10-17",
+    "fondos_neto": 187728,
+    "interes_abierto": 842662
+   },
+   {
+    "fecha": "2023-10-24",
+    "fondos_neto": 187554,
+    "interes_abierto": 857661
+   },
+   {
+    "fecha": "2023-10-31",
+    "fondos_neto": 173639,
+    "interes_abierto": 865859
+   },
+   {
+    "fecha": "2023-11-07",
+    "fondos_neto": 191421,
+    "interes_abierto": 879489
+   },
+   {
+    "fecha": "2023-11-14",
+    "fondos_neto": 176402,
+    "interes_abierto": 860384
+   },
+   {
+    "fecha": "2023-11-21",
+    "fondos_neto": 179820,
+    "interes_abierto": 871894
+   },
+   {
+    "fecha": "2023-11-28",
+    "fondos_neto": 161776,
+    "interes_abierto": 875946
+   },
+   {
+    "fecha": "2023-12-05",
+    "fondos_neto": 111997,
+    "interes_abierto": 853428
+   },
+   {
+    "fecha": "2023-12-12",
+    "fondos_neto": 57044,
+    "interes_abierto": 781527
+   },
+   {
+    "fecha": "2023-12-19",
+    "fondos_neto": 39874,
+    "interes_abierto": 774617
+   },
+   {
+    "fecha": "2023-12-26",
+    "fondos_neto": 27346,
+    "interes_abierto": 792894
+   },
+   {
+    "fecha": "2024-01-02",
+    "fondos_neto": 23823,
+    "interes_abierto": 826270
+   },
+   {
+    "fecha": "2024-01-09",
+    "fondos_neto": 22151,
+    "interes_abierto": 811145
+   },
+   {
+    "fecha": "2024-01-16",
+    "fondos_neto": 20506,
+    "interes_abierto": 801086
+   },
+   {
+    "fecha": "2024-01-23",
+    "fondos_neto": 34818,
+    "interes_abierto": 819120
+   },
+   {
+    "fecha": "2024-01-30",
+    "fondos_neto": 50580,
+    "interes_abierto": 851084
+   },
+   {
+    "fecha": "2024-02-06",
+    "fondos_neto": 60454,
+    "interes_abierto": 881004
+   },
+   {
+    "fecha": "2024-02-13",
+    "fondos_neto": 64012,
+    "interes_abierto": 884135
+   },
+   {
+    "fecha": "2024-02-20",
+    "fondos_neto": 56296,
+    "interes_abierto": 848563
+   },
+   {
+    "fecha": "2024-02-27",
+    "fondos_neto": 70824,
+    "interes_abierto": 822162
+   },
+   {
+    "fecha": "2024-03-05",
+    "fondos_neto": 49301,
+    "interes_abierto": 842380
+   },
+   {
+    "fecha": "2024-03-12",
+    "fondos_neto": 53072,
+    "interes_abierto": 819781
+   },
+   {
+    "fecha": "2024-03-19",
+    "fondos_neto": 58113,
+    "interes_abierto": 834490
+   },
+   {
+    "fecha": "2024-03-26",
+    "fondos_neto": 70550,
+    "interes_abierto": 839231
+   },
+   {
+    "fecha": "2024-04-02",
+    "fondos_neto": 90948,
+    "interes_abierto": 845531
+   },
+   {
+    "fecha": "2024-04-09",
+    "fondos_neto": 81066,
+    "interes_abierto": 834056
+   },
+   {
+    "fecha": "2024-04-16",
+    "fondos_neto": 48217,
+    "interes_abierto": 811191
+   },
+   {
+    "fecha": "2024-04-23",
+    "fondos_neto": 19096,
+    "interes_abierto": 827078
+   },
+   {
+    "fecha": "2024-04-30",
+    "fondos_neto": 6206,
+    "interes_abierto": 833374
+   },
+   {
+    "fecha": "2024-05-07",
+    "fondos_neto": -5108,
+    "interes_abierto": 825438
+   },
+   {
+    "fecha": "2024-05-14",
+    "fondos_neto": -15512,
+    "interes_abierto": 829891
+   },
+   {
+    "fecha": "2024-05-21",
+    "fondos_neto": -30720,
+    "interes_abierto": 858459
+   },
+   {
+    "fecha": "2024-05-28",
+    "fondos_neto": -35013,
+    "interes_abierto": 875017
+   },
+   {
+    "fecha": "2024-06-04",
+    "fondos_neto": -42960,
+    "interes_abierto": 881990
+   },
+   {
+    "fecha": "2024-06-11",
+    "fondos_neto": -31403,
+    "interes_abierto": 858042
+   },
+   {
+    "fecha": "2024-06-18",
+    "fondos_neto": -15107,
+    "interes_abierto": 829375
+   },
+   {
+    "fecha": "2024-06-25",
+    "fondos_neto": -1906,
+    "interes_abierto": 808974
+   },
+   {
+    "fecha": "2024-07-02",
+    "fondos_neto": 34885,
+    "interes_abierto": 775139
+   },
+   {
+    "fecha": "2024-07-09",
+    "fondos_neto": 40313,
+    "interes_abierto": 778762
+   },
+   {
+    "fecha": "2024-07-16",
+    "fondos_neto": 37300,
+    "interes_abierto": 769545
+   },
+   {
+    "fecha": "2024-07-23",
+    "fondos_neto": -1800,
+    "interes_abierto": 787803
+   },
+   {
+    "fecha": "2024-07-30",
+    "fondos_neto": 3823,
+    "interes_abierto": 794156
+   },
+   {
+    "fecha": "2024-08-06",
+    "fondos_neto": -12861,
+    "interes_abierto": 803315
+   },
+   {
+    "fecha": "2024-08-13",
+    "fondos_neto": -6084,
+    "interes_abierto": 808191
+   },
+   {
+    "fecha": "2024-08-20",
+    "fondos_neto": -22118,
+    "interes_abierto": 822948
+   },
+   {
+    "fecha": "2024-08-27",
+    "fondos_neto": 15369,
+    "interes_abierto": 831103
+   },
+   {
+    "fecha": "2024-09-03",
+    "fondos_neto": 44234,
+    "interes_abierto": 831823
+   },
+   {
+    "fecha": "2024-09-10",
+    "fondos_neto": 31168,
+    "interes_abierto": 819876
+   },
+   {
+    "fecha": "2024-09-17",
+    "fondos_neto": 53820,
+    "interes_abierto": 756272
+   },
+   {
+    "fecha": "2024-09-24",
+    "fondos_neto": 114291,
+    "interes_abierto": 810059
+   },
+   {
+    "fecha": "2024-10-01",
+    "fondos_neto": 133749,
+    "interes_abierto": 791833
+   },
+   {
+    "fecha": "2024-10-08",
+    "fondos_neto": 124705,
+    "interes_abierto": 799899
+   },
+   {
+    "fecha": "2024-10-15",
+    "fondos_neto": 123581,
+    "interes_abierto": 813905
+   },
+   {
+    "fecha": "2024-10-22",
+    "fondos_neto": 111146,
+    "interes_abierto": 824496
+   },
+   {
+    "fecha": "2024-10-29",
+    "fondos_neto": 102363,
+    "interes_abierto": 850281
+   },
+   {
+    "fecha": "2024-11-05",
+    "fondos_neto": 98342,
+    "interes_abierto": 863169
+   },
+   {
+    "fecha": "2024-11-12",
+    "fondos_neto": 84021,
+    "interes_abierto": 854106
+   },
+   {
+    "fecha": "2024-11-19",
+    "fondos_neto": 90704,
+    "interes_abierto": 879396
+   },
+   {
+    "fecha": "2024-11-26",
+    "fondos_neto": 90258,
+    "interes_abierto": 877135
+   },
+   {
+    "fecha": "2024-12-03",
+    "fondos_neto": 103250,
+    "interes_abierto": 890137
+   },
+   {
+    "fecha": "2024-12-10",
+    "fondos_neto": 111078,
+    "interes_abierto": 930326
+   },
+   {
+    "fecha": "2024-12-17",
+    "fondos_neto": 87463,
+    "interes_abierto": 945162
+   },
+   {
+    "fecha": "2024-12-24",
+    "fondos_neto": 67149,
+    "interes_abierto": 958813
+   },
+   {
+    "fecha": "2024-12-31",
+    "fondos_neto": 49910,
+    "interes_abierto": 966547
+   },
+   {
+    "fecha": "2025-01-07",
+    "fondos_neto": 48661,
+    "interes_abierto": 959156
+   },
+   {
+    "fecha": "2025-01-14",
+    "fondos_neto": 2192,
+    "interes_abierto": 987977
+   },
+   {
+    "fecha": "2025-01-21",
+    "fondos_neto": -48231,
+    "interes_abierto": 992164
+   },
+   {
+    "fecha": "2025-01-28",
+    "fondos_neto": -45760,
+    "interes_abierto": 1002229
+   },
+   {
+    "fecha": "2025-02-04",
+    "fondos_neto": -49104,
+    "interes_abierto": 1013425
+   },
+   {
+    "fecha": "2025-02-11",
+    "fondos_neto": -41716,
+    "interes_abierto": 1011895
+   },
+   {
+    "fecha": "2025-02-18",
+    "fondos_neto": -13505,
+    "interes_abierto": 988298
+   },
+   {
+    "fecha": "2025-02-25",
+    "fondos_neto": 49231,
+    "interes_abierto": 965822
+   },
+   {
+    "fecha": "2025-03-04",
+    "fondos_neto": 37366,
+    "interes_abierto": 904274
+   },
+   {
+    "fecha": "2025-03-11",
+    "fondos_neto": 21208,
+    "interes_abierto": 881296
+   },
+   {
+    "fecha": "2025-03-18",
+    "fondos_neto": 67990,
+    "interes_abierto": 899339
+   },
+   {
+    "fecha": "2025-03-25",
+    "fondos_neto": 92726,
+    "interes_abierto": 898876
+   },
+   {
+    "fecha": "2025-04-01",
+    "fondos_neto": 97495,
+    "interes_abierto": 894479
+   },
+   {
+    "fecha": "2025-04-08",
+    "fondos_neto": 95131,
+    "interes_abierto": 873824
+   },
+   {
+    "fecha": "2025-04-15",
+    "fondos_neto": 56660,
+    "interes_abierto": 854643
+   },
+   {
+    "fecha": "2025-04-22",
+    "fondos_neto": 51875,
+    "interes_abierto": 830293
+   },
+   {
+    "fecha": "2025-04-29",
+    "fondos_neto": 43703,
+    "interes_abierto": 814178
+   },
+   {
+    "fecha": "2025-05-06",
+    "fondos_neto": 17633,
+    "interes_abierto": 797126
+   },
+   {
+    "fecha": "2025-05-13",
+    "fondos_neto": 23805,
+    "interes_abierto": 788002
+   },
+   {
+    "fecha": "2025-05-20",
+    "fondos_neto": 23231,
+    "interes_abierto": 805373
+   },
+   {
+    "fecha": "2025-05-27",
+    "fondos_neto": 10408,
+    "interes_abierto": 824628
+   },
+   {
+    "fecha": "2025-06-03",
+    "fondos_neto": -11636,
+    "interes_abierto": 878105
+   },
+   {
+    "fecha": "2025-06-10",
+    "fondos_neto": -31025,
+    "interes_abierto": 903273
+   },
+   {
+    "fecha": "2025-06-17",
+    "fondos_neto": -66106,
+    "interes_abierto": 877614
+   },
+   {
+    "fecha": "2025-06-24",
+    "fondos_neto": -78489,
+    "interes_abierto": 860131
+   },
+   {
+    "fecha": "2025-07-01",
+    "fondos_neto": -105597,
+    "interes_abierto": 840169
+   },
+   {
+    "fecha": "2025-07-08",
+    "fondos_neto": -93080,
+    "interes_abierto": 850532
+   },
+   {
+    "fecha": "2025-07-15",
+    "fondos_neto": -90660,
+    "interes_abierto": 866727
+   },
+   {
+    "fecha": "2025-07-22",
+    "fondos_neto": -92421,
+    "interes_abierto": 866505
+   },
+   {
+    "fecha": "2025-07-29",
+    "fondos_neto": -92499,
+    "interes_abierto": 872591
+   },
+   {
+    "fecha": "2025-08-05",
+    "fondos_neto": -105760,
+    "interes_abierto": 888761
+   },
+   {
+    "fecha": "2025-08-12",
+    "fondos_neto": -87040,
+    "interes_abierto": 898919
+   },
+   {
+    "fecha": "2025-08-19",
+    "fondos_neto": -89934,
+    "interes_abierto": 901121
+   },
+   {
+    "fecha": "2025-08-26",
+    "fondos_neto": -92246,
+    "interes_abierto": 915782
+   },
+   {
+    "fecha": "2025-09-02",
+    "fondos_neto": -100562,
+    "interes_abierto": 940447
+   },
+   {
+    "fecha": "2025-09-09",
+    "fondos_neto": -144886,
+    "interes_abierto": 954758
+   },
+   {
+    "fecha": "2025-09-16",
+    "fondos_neto": -126270,
+    "interes_abierto": 918579
+   },
+   {
+    "fecha": "2025-09-23",
+    "fondos_neto": -150907,
+    "interes_abierto": 898935
+   },
+   {
+    "fecha": "2025-09-30",
+    "fondos_neto": -136098,
+    "interes_abierto": 859715
+   },
+   {
+    "fecha": "2025-10-07",
+    "fondos_neto": -141337,
+    "interes_abierto": 834349
+   },
+   {
+    "fecha": "2025-10-14",
+    "fondos_neto": -165750,
+    "interes_abierto": 867493
+   },
+   {
+    "fecha": "2025-10-21",
+    "fondos_neto": -154301,
+    "interes_abierto": 880454
+   },
+   {
+    "fecha": "2025-10-28",
+    "fondos_neto": -169741,
+    "interes_abierto": 898257
+   },
+   {
+    "fecha": "2025-11-04",
+    "fondos_neto": -199182,
+    "interes_abierto": 929991
+   },
+   {
+    "fecha": "2025-11-10",
+    "fondos_neto": -206798,
+    "interes_abierto": 938758
+   },
+   {
+    "fecha": "2025-11-18",
+    "fondos_neto": -191697,
+    "interes_abierto": 941444
+   },
+   {
+    "fecha": "2025-11-25",
+    "fondos_neto": -196895,
+    "interes_abierto": 946665
+   },
+   {
+    "fecha": "2025-12-02",
+    "fondos_neto": -183859,
+    "interes_abierto": 951437
+   },
+   {
+    "fecha": "2025-12-09",
+    "fondos_neto": -175959,
+    "interes_abierto": 941986
+   },
+   {
+    "fecha": "2025-12-16",
+    "fondos_neto": -164366,
+    "interes_abierto": 942193
+   },
+   {
+    "fecha": "2025-12-23",
+    "fondos_neto": -148742,
+    "interes_abierto": 938797
+   },
+   {
+    "fecha": "2025-12-30",
+    "fondos_neto": -130928,
+    "interes_abierto": 923101
+   },
+   {
+    "fecha": "2026-01-06",
+    "fondos_neto": -137536,
+    "interes_abierto": 943170
+   },
+   {
+    "fecha": "2026-01-13",
+    "fondos_neto": -137476,
+    "interes_abierto": 970010
+   },
+   {
+    "fecha": "2026-01-20",
+    "fondos_neto": -146254,
+    "interes_abierto": 985716
+   },
+   {
+    "fecha": "2026-01-27",
+    "fondos_neto": -132441,
+    "interes_abierto": 1006304
+   },
+   {
+    "fecha": "2026-02-03",
+    "fondos_neto": -176700,
+    "interes_abierto": 1059582
+   },
+   {
+    "fecha": "2026-02-10",
+    "fondos_neto": -200034,
+    "interes_abierto": 1095771
+   },
+   {
+    "fecha": "2026-02-17",
+    "fondos_neto": -231762,
+    "interes_abierto": 1099675
+   },
+   {
+    "fecha": "2026-02-24",
+    "fondos_neto": -232316,
+    "interes_abierto": 1054389
+   },
+   {
+    "fecha": "2026-03-03",
+    "fondos_neto": -238217,
+    "interes_abierto": 1048631
+   },
+   {
+    "fecha": "2026-03-10",
+    "fondos_neto": -202363,
+    "interes_abierto": 1035892
+   },
+   {
+    "fecha": "2026-03-17",
+    "fondos_neto": -198139,
+    "interes_abierto": 1005609
+   },
+   {
+    "fecha": "2026-03-24",
+    "fondos_neto": -73170,
+    "interes_abierto": 940662
+   },
+   {
+    "fecha": "2026-03-31",
+    "fondos_neto": -40794,
+    "interes_abierto": 927493
+   },
+   {
+    "fecha": "2026-04-07",
+    "fondos_neto": -55858,
+    "interes_abierto": 924257
+   },
+   {
+    "fecha": "2026-04-14",
+    "fondos_neto": -133746,
+    "interes_abierto": 946729
+   },
+   {
+    "fecha": "2026-04-21",
+    "fondos_neto": -174720,
+    "interes_abierto": 978152
+   },
+   {
+    "fecha": "2026-04-28",
+    "fondos_neto": -174600,
+    "interes_abierto": 972678
+   },
+   {
+    "fecha": "2026-05-05",
+    "fondos_neto": -111557,
+    "interes_abierto": 969640
+   },
+   {
+    "fecha": "2026-05-12",
+    "fondos_neto": -95571,
+    "interes_abierto": 961423
+   },
+   {
+    "fecha": "2026-05-19",
+    "fondos_neto": -83869,
+    "interes_abierto": 970925
+   },
+   {
+    "fecha": "2026-05-26",
+    "fondos_neto": -89102,
+    "interes_abierto": 967447
+   },
+   {
+    "fecha": "2026-06-02",
+    "fondos_neto": -118732,
+    "interes_abierto": 979429
+   },
+   {
+    "fecha": "2026-06-09",
+    "fondos_neto": -123713,
+    "interes_abierto": 1009892
+   },
+   {
+    "fecha": "2026-06-16",
+    "fondos_neto": -154935,
+    "interes_abierto": 1010191
+   },
+   {
+    "fecha": "2026-06-23",
+    "fondos_neto": -186290,
+    "interes_abierto": 1007082
+   },
+   {
+    "fecha": "2026-06-30",
+    "fondos_neto": -158202,
+    "interes_abierto": 992340
+   },
+   {
+    "fecha": "2026-07-07",
+    "fondos_neto": -108650,
+    "interes_abierto": 997547
+   },
+   {
+    "fecha": "2026-07-14",
+    "fondos_neto": -102817,
+    "interes_abierto": 1000488
+   },
+   {
+    "fecha": "2026-07-21",
+    "fondos_neto": -102682,
+    "interes_abierto": 1015444
+   },
+   {
+    "fecha": "2026-07-28",
+    "fondos_neto": -116424,
+    "interes_abierto": 1032923
+   },
+   {
+    "fecha": "2026-08-04",
+    "fondos_neto": -87188,
+    "interes_abierto": 1055808
+   },
+   {
+    "fecha": "2026-08-11",
+    "fondos_neto": 43584,
+    "interes_abierto": 1115157
+   },
+   {
+    "fecha": "2026-08-18",
+    "fondos_neto": 138613,
+    "interes_abierto": 1174925
+   },
+   {
+    "fecha": "2026-08-25",
+    "fondos_neto": 198017,
+    "interes_abierto": 1251139
+   },
+   {
+    "fecha": "2026-09-01",
+    "fondos_neto": 233771,
+    "interes_abierto": 1275546
+   },
+   {
+    "fecha": "2026-09-08",
+    "fondos_neto": 238684,
+    "interes_abierto": 1276579
+   },
+   {
+    "fecha": "2026-09-15",
+    "fondos_neto": 225430,
+    "interes_abierto": 1219523
+   },
+   {
+    "fecha": "2026-09-22",
+    "fondos_neto": 216629,
+    "interes_abierto": 1147767
+   }
+  ]
+ }
+}
