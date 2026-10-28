@@ -5,21 +5,6 @@
  "series": {
   "cacao": [
    {
-    "fecha": "2023-10-10",
-    "fondos_neto": 53014,
-    "interes_abierto": 281553
-   },
-   {
-    "fecha": "2023-10-17",
-    "fondos_neto": 60684,
-    "interes_abierto": 284934
-   },
-   {
-    "fecha": "2023-10-24",
-    "fondos_neto": 70165,
-    "interes_abierto": 312256
-   },
-   {
     "fecha": "2023-10-31",
     "fondos_neto": 69459,
     "interes_abierto": 309716
@@ -783,24 +768,24 @@
     "fecha": "2026-09-29",
     "fondos_neto": -16022,
     "interes_abierto": 183888
+   },
+   {
+    "fecha": "2026-10-06",
+    "fondos_neto": -11052,
+    "interes_abierto": 179765
+   },
+   {
+    "fecha": "2026-10-13",
+    "fondos_neto": -11921,
+    "interes_abierto": 179733
+   },
+   {
+    "fecha": "2026-10-20",
+    "fondos_neto": -8821,
+    "interes_abierto": 178141
    }
   ],
   "cafe": [
-   {
-    "fecha": "2023-10-10",
-    "fondos_neto": -29228,
-    "interes_abierto": 217692
-   },
-   {
-    "fecha": "2023-10-17",
-    "fondos_neto": -17850,
-    "interes_abierto": 215771
-   },
-   {
-    "fecha": "2023-10-24",
-    "fondos_neto": 8452,
-    "interes_abierto": 199646
-   },
    {
     "fecha": "2023-10-31",
     "fondos_neto": 14312,
@@ -1565,24 +1550,24 @@
     "fecha": "2026-09-29",
     "fondos_neto": 16206,
     "interes_abierto": 154908
+   },
+   {
+    "fecha": "2026-10-06",
+    "fondos_neto": 19036,
+    "interes_abierto": 162806
+   },
+   {
+    "fecha": "2026-10-13",
+    "fondos_neto": 15270,
+    "interes_abierto": 163626
+   },
+   {
+    "fecha": "2026-10-20",
+    "fondos_neto": 22337,
+    "interes_abierto": 170911
    }
   ],
   "azucar": [
-   {
-    "fecha": "2023-10-10",
-    "fondos_neto": 181748,
-    "interes_abierto": 821749
-   },
-   {
-    "fecha": "2023-10-17",
-    "fondos_neto": 187728,
-    "interes_abierto": 842662
-   },
-   {
-    "fecha": "2023-10-24",
-    "fondos_neto": 187554,
-    "interes_abierto": 857661
-   },
    {
     "fecha": "2023-10-31",
     "fondos_neto": 173639,
@@ -2347,6 +2332,21 @@
     "fecha": "2026-09-29",
     "fondos_neto": 218336,
     "interes_abierto": 1099176
+   },
+   {
+    "fecha": "2026-10-06",
+    "fondos_neto": 252514,
+    "interes_abierto": 1158944
+   },
+   {
+    "fecha": "2026-10-13",
+    "fondos_neto": 259549,
+    "interes_abierto": 1179144
+   },
+   {
+    "fecha": "2026-10-20",
+    "fondos_neto": 264530,
+    "interes_abierto": 1210639
    }
   ]
  }
