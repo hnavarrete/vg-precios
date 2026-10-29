@@ -1,0 +1,92 @@
+{
+  "contrato": "vg-precios/catalogo-1",
+  "cultivo": "cacao",
+  "version": 1,
+  "actualizado": "2026-10-29",
+  "estado": "Estructura, fuentes e indicadores. Las cifras (produccion, cuota, molienda) van en null hasta leerlas de su fuente con fecha: paso 3a del radar, 6-nov. Ninguna cifra de memoria.",
+  "reglas": {
+    "publico": "Paises, reguladores, bolsas, organismos, asociaciones de molienda, indices y normativa.",
+    "nunca_en_este_repo": "Empresas comercializadoras, procesadoras, chocolateras o compradoras. El repositorio es publico y varias son clientes o prospectos de VG: su seguimiento vive solo en el catalogo interno.",
+    "sanidad": "Plagas y enfermedades de los cultivos solo como variable interna del pronostico, nunca en piezas publicas.",
+    "cifras": "Toda cifra lleva fuente, fecha de la fuente y fecha de lectura. Sin eso, null."
+  },
+  "clima": {
+    "fuente": "https://agroclima.visiongeografica.com/clima-semana.json",
+    "duena": "#16",
+    "nota": "Cada pais productor se cruza por su slug `pais`; las zonas de referencia traen `cultivo: cacao` y `referencia` por region."
+  },
+  "oferta": {
+    "fuente_cifras": ["ICCO, Boletin Trimestral de Estadisticas del Cacao", "FAOSTAT (QCL)"],
+    "paises": [
+      {"pais": "costa-de-marfil", "iso": "CI", "region": "cacao-africa-occidental", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "ghana", "iso": "GH", "region": "cacao-africa-occidental", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "camerun", "iso": "CM", "region": "cacao-africa-occidental", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "nigeria", "iso": "NG", "region": "cacao-africa-occidental", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "sierra-leona", "iso": "SL", "region": "cacao-africa-occidental", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "togo", "iso": "TG", "region": "cacao-africa-occidental", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "liberia", "iso": "LR", "region": "cacao-africa-occidental", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "uganda", "iso": "UG", "region": "cacao-africa-oriental", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "ecuador", "iso": "EC", "region": "cacao-latinoamerica", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "brasil", "iso": "BR", "region": "cacao-latinoamerica", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "peru", "iso": "PE", "region": "cacao-latinoamerica", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "colombia", "iso": "CO", "region": "cacao-latinoamerica", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "republica-dominicana", "iso": "DO", "region": "cacao-latinoamerica", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "venezuela", "iso": "VE", "region": "cacao-latinoamerica", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "indonesia", "iso": "ID", "region": "cacao-asia-oceania", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "papua-nueva-guinea", "iso": "PG", "region": "cacao-asia-oceania", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "filipinas", "iso": "PH", "region": "cacao-asia-oceania", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "india", "iso": "IN", "region": "cacao-asia-oceania", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "malasia", "iso": "MY", "region": "cacao-asia-oceania", "produccion_t": null, "cuota": null, "campana": null},
+      {"pais": "vietnam", "iso": "VN", "region": "cacao-asia-oceania", "produccion_t": null, "cuota": null, "campana": null}
+    ]
+  },
+  "reguladores": [
+    {"pais": "costa-de-marfil", "nombre": "Conseil du Café-Cacao", "que_publica": "Precio en finca fijado por campana y ventas anticipadas", "fuente": "pagina oficial del Conseil", "estado": "por verificar la pagina y su formato"},
+    {"pais": "ghana", "nombre": "COCOBOD (Ghana Cocoa Board)", "que_publica": "Precio al productor por campana y ventas anticipadas", "fuente": "pagina oficial de COCOBOD", "estado": "por verificar la pagina y su formato"},
+    {"pais": "camerun", "nombre": null, "que_publica": null, "fuente": null, "estado": "por identificar el organismo y si fija o solo publica precio"},
+    {"pais": "ecuador", "nombre": null, "que_publica": "Precio por provincia (MAG, SIPA)", "fuente": "MAG, SIPA", "estado": "paso 3b, 10-nov: medir si responde desde la torre"}
+  ],
+  "precio": {
+    "bolsas": [
+      {"nombre": "ICE Futures U.S., cacao", "moneda": "USD", "unidad": "t", "uso": "solo el cierre, citado; sin redistribuir en vivo"},
+      {"nombre": "ICE Futures Europe, cacao de Londres", "moneda": "GBP", "unidad": "t", "uso": "solo el cierre, citado; sin redistribuir en vivo"}
+    ],
+    "fondos": {"nombre": "CFTC, Commitments of Traders", "conectado": true, "conector": "conectores/cftc.py"},
+    "inventarios": {"nombre": "Existencias certificadas de ICE", "estado": "por verificar si se publican sin licencia"},
+    "diferenciales": {"nota": "Prima o descuento por origen y calidad (fino de aroma, CCN-51) sobre la bolsa: es lo que de verdad cobra Ecuador", "estado": "por identificar fuente publica y fechada"},
+    "monedas": ["USD", "GBP", "EUR", "BRL"]
+  },
+  "demanda": {
+    "molienda_por_region": [
+      {"region": "Europa", "fuente": "Asociacion europea del cacao (molienda trimestral)", "estado": "por verificar"},
+      {"region": "Norteamerica", "fuente": "Asociacion de confiteros de Norteamerica (molienda trimestral)", "estado": "por verificar"},
+      {"region": "Asia", "fuente": "Asociacion del cacao de Asia (molienda trimestral)", "estado": "por verificar"}
+    ],
+    "paises_que_muelen_o_importan": ["paises-bajos", "alemania", "belgica", "estados-unidos", "malasia", "indonesia", "costa-de-marfil"],
+    "fuente_cifras": ["ICCO", "Eurostat", "UN Comtrade"],
+    "consumo": {"fuente": ["ICCO", "FAOSTAT"], "estado": "por verificar"}
+  },
+  "factores": [
+    {"nivel": "global", "factor": "Balance entre oferta y demanda", "empuja": "deficit sube el precio; superavit lo baja", "indicador": "superavit o deficit de la campana; relacion existencias/molienda", "fuente": "ICCO", "frecuencia": "trimestral", "conectado": false},
+    {"nivel": "global", "factor": "Clima de los grandes productores", "empuja": "sequia o exceso de lluvia en la region productora reduce oferta y sube el precio", "indicador": "lluvia de 7 dias y dias de lluvia fuerte por zona", "fuente": "clima-semana.json (#16)", "frecuencia": "diaria", "conectado": true},
+    {"nivel": "global", "factor": "El Nino y La Nina", "empuja": "depende de la region: se lee por zona, no como regla fija", "indicador": "estado del CPC y anomalia Nino 1+2", "fuente": "NOAA CPC via clima-semana.json", "frecuencia": "mensual", "conectado": true},
+    {"nivel": "global", "factor": "Inventarios de las bolsas", "empuja": "inventarios altos bajan el precio", "indicador": "existencias certificadas de ICE", "fuente": "ICE", "frecuencia": "diaria", "conectado": false},
+    {"nivel": "global", "factor": "Fondos y especulacion", "empuja": "posicion neta larga creciente acompana subidas", "indicador": "posicion neta de los fondos", "fuente": "CFTC", "frecuencia": "semanal", "conectado": true},
+    {"nivel": "global", "factor": "Moneda", "empuja": "un dolar fuerte suele bajar el precio en USD; la moneda del competidor cambia su oferta", "indicador": "USD/GBP, EUR/USD, USD/BRL", "fuente": "bancos centrales", "frecuencia": "diaria", "conectado": false},
+    {"nivel": "global", "factor": "Costos: tasas, energia, fertilizantes y fletes", "empuja": "costos altos presionan la oferta futura", "indicador": "Pink Sheet del Banco Mundial; tasas de los bancos centrales; indices de fletes", "fuente": "Banco Mundial y otros", "frecuencia": "mensual", "conectado": false},
+    {"nivel": "global", "factor": "Geopolitica y comercio", "empuja": "variable", "indicador": "sin indicador: se sigue por noticias", "fuente": "radar de noticias de #17", "frecuencia": "continua", "conectado": false},
+    {"nivel": "global", "factor": "Reglas del comprador (EUDR, cadmio, aranceles)", "empuja": "cambia el acceso y la prima por origen", "indicador": "normas vigentes y sus fechas", "fuente": "Comision Europea; textos oficiales", "frecuencia": "por evento", "conectado": false},
+    {"nivel": "global", "factor": "Consumo", "empuja": "molienda que crece sube la demanda", "indicador": "molienda por region contra el ano anterior", "fuente": "asociaciones de molienda; ICCO", "frecuencia": "trimestral", "conectado": false},
+    {"nivel": "regional", "factor": "Precio fijado y ventas anticipadas de Costa de Marfil y Ghana", "empuja": "fija el piso de la oferta de la region", "indicador": "anuncios oficiales por campana", "fuente": "Conseil du Café-Cacao; COCOBOD", "frecuencia": "por campana", "conectado": false},
+    {"nivel": "regional", "factor": "Perdidas de produccion (contrabando, mineria ilegal, plantaciones viejas)", "empuja": "reduce la oferta registrada", "indicador": "llegadas a puerto; informes", "fuente": "ICCO; FAO; noticias", "frecuencia": "semanal a anual", "conectado": false},
+    {"nivel": "regional", "factor": "Diferencial por origen y calidad", "empuja": "define lo que se cobra sobre la bolsa", "indicador": "diferenciales publicados", "fuente": "por identificar", "frecuencia": "por definir", "conectado": false},
+    {"nivel": "regional", "factor": "Acuerdos comerciales del pais con cada bloque", "empuja": "cambia el arancel y la competitividad", "indicador": "textos oficiales", "fuente": "oficial", "frecuencia": "por evento", "conectado": false},
+    {"nivel": "regional", "factor": "Logistica de puertos y contenedores", "empuja": "costo y demora de exportar", "indicador": "fletes; noticias", "fuente": "indices de fletes; noticias", "frecuencia": "semanal", "conectado": false},
+    {"nivel": "local", "factor": "Lo que paga cada exportadora sobre la bolsa", "empuja": "precio en finca", "indicador": "diferencial local", "fuente": "prensa seria (formula comprobada con Expreso); paginas publicas", "frecuencia": "semanal", "conectado": false},
+    {"nivel": "local", "factor": "Precio por zona de los acopios", "empuja": "precio en finca por zona", "indicador": "mediana por parroquia o canton con 5 organizaciones o mas", "fuente": "radar_precios_zona de Custody (#05)", "frecuencia": "diaria, corte a medianoche", "conectado": false},
+    {"nivel": "local", "factor": "Calidad (humedad, fermentacion, baba o seco)", "empuja": "precio por calidad", "indicador": "precio por calidad", "fuente": "Custody (#05); MAG SIPA", "frecuencia": "diaria", "conectado": false},
+    {"nivel": "local", "factor": "Cosecha y clima de la zona", "empuja": "oferta local", "indicador": "lluvia por zona", "fuente": "clima-semana.json (#16); MAG SIPA", "frecuencia": "diaria", "conectado": true},
+    {"nivel": "local", "factor": "Distancia e intermediarios hasta el exportador", "empuja": "margen que no llega al productor", "indicador": "precio en finca contra FOB", "fuente": "por construir", "frecuencia": "por definir", "conectado": false},
+    {"nivel": "local", "factor": "Normas del pais (precio de referencia, controles, certificaciones)", "empuja": "piso o costo del productor", "indicador": "normas vigentes", "fuente": "MAG; Agrocalidad", "frecuencia": "por evento", "conectado": false}
+  ]
+}
