@@ -1,0 +1,43 @@
+# CFTC semanal: baja el informe Commitments of Traders y publica precios/ si cambió.
+# Sin secretos: usa la API abierta de la CFTC y el GITHUB_TOKEN del propio repo.
+name: CFTC semanal
+
+on:
+  schedule:
+    # La CFTC publica el viernes a las 15:30 de Nueva York (19:30 o 20:30 UTC).
+    - cron: "15 22 * * 5"   # viernes 17:15 de Ecuador
+    - cron: "0 15 * * 1"    # lunes 10:00 de Ecuador, por si un feriado de EE. UU. la corrió
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vg-precios-datos
+  cancel-in-progress: false
+
+jobs:
+  cftc:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pruebas
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Bajar de la CFTC y armar la salida
+        run: python3 armar_salida.py
+
+      - name: Guardar si hay datos nuevos
+        run: |
+          git add precios
+          if git diff --cached --quiet; then
+            echo "Sin datos nuevos: no hay commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          fecha=$(python3 -c "import json;print(json.load(open('precios/ultimo.json'))['fuentes']['cftc_cot']['fecha'])")
+          git commit -m "datos: CFTC al $fecha"
+          git push
