@@ -5,11 +5,6 @@
  "series": {
   "cacao": [
    {
-    "fecha": "2023-11-14",
-    "fondos_neto": 76570,
-    "interes_abierto": 298572
-   },
-   {
     "fecha": "2023-11-21",
     "fondos_neto": 78564,
     "interes_abierto": 278680
@@ -783,14 +778,14 @@
     "fecha": "2026-11-03",
     "fondos_neto": -12253,
     "interes_abierto": 179866
+   },
+   {
+    "fecha": "2026-11-10",
+    "fondos_neto": -18845,
+    "interes_abierto": 182266
    }
   ],
   "cafe": [
-   {
-    "fecha": "2023-11-14",
-    "fondos_neto": 25859,
-    "interes_abierto": 189044
-   },
    {
     "fecha": "2023-11-21",
     "fondos_neto": 27705,
@@ -1565,14 +1560,14 @@
     "fecha": "2026-11-03",
     "fondos_neto": 14732,
     "interes_abierto": 166984
+   },
+   {
+    "fecha": "2026-11-10",
+    "fondos_neto": 10932,
+    "interes_abierto": 154019
    }
   ],
   "azucar": [
-   {
-    "fecha": "2023-11-14",
-    "fondos_neto": 176402,
-    "interes_abierto": 860384
-   },
    {
     "fecha": "2023-11-21",
     "fondos_neto": 179820,
@@ -2347,6 +2342,11 @@
     "fecha": "2026-11-03",
     "fondos_neto": 223784,
     "interes_abierto": 1191088
+   },
+   {
+    "fecha": "2026-11-10",
+    "fondos_neto": 195801,
+    "interes_abierto": 1145979
    }
   ]
  }

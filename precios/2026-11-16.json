@@ -1,0 +1,235 @@
+{
+ "contrato": "vg-precios/1",
+ "generado": "2026-11-16T23:40:44+00:00",
+ "fecha_ecuador": "2026-11-16",
+ "fuentes": {
+  "cftc_cot": {
+   "fecha": "2026-11-10",
+   "estado": "ok"
+  }
+ },
+ "registros": [
+  {
+   "fuente": "CFTC · Commitments of Traders",
+   "fuente_id": "cftc_cot",
+   "tipo": "posicion",
+   "producto": "cacao",
+   "variedad": null,
+   "mercado": "ICE Nueva York",
+   "zona": "mundo",
+   "unidad": "contratos",
+   "moneda": null,
+   "valor": -18845,
+   "que_es_valor": "posición neta de los fondos (managed money): contratos comprados menos vendidos",
+   "fecha": "2026-11-10",
+   "n_reportes": 215,
+   "rango": {
+    "min": -23084,
+    "max": 82572,
+    "semanas": 156
+   },
+   "confianza": "oficial",
+   "senal": {
+    "neto_pct_interes_abierto": -10.3,
+    "cambio_neto_semana": -6592,
+    "percentil_3_anios": 2,
+    "lectura": "Fondos en cacao: vendidos en neto, 18.845 contratos (-10,3 % del interés abierto); vendieron 6.592 contratos en la semana. Su posición supera o iguala la del 2 % de las semanas de los últimos 3 años."
+   },
+   "detalle": {
+    "interes_abierto": 182266,
+    "contrato": "contracts of 10 metric tons",
+    "categorias": {
+     "productores": {
+      "largo": 46307,
+      "corto": 61945,
+      "spread": 0,
+      "neto": -15638,
+      "cambio_neto": 7612
+     },
+     "swaps": {
+      "largo": 41479,
+      "corto": 8561,
+      "spread": 9887,
+      "neto": 32918,
+      "cambio_neto": 1544
+     },
+     "fondos": {
+      "largo": 16617,
+      "corto": 35462,
+      "spread": 25667,
+      "neto": -18845,
+      "cambio_neto": -6592
+     },
+     "otros": {
+      "largo": 12523,
+      "corto": 10541,
+      "spread": 18678,
+      "neto": 1982,
+      "cambio_neto": -1004
+     },
+     "no_reportables": {
+      "largo": 11108,
+      "corto": 11525,
+      "spread": 0,
+      "neto": -417,
+      "cambio_neto": -1560
+     }
+    }
+   },
+   "validacion": {
+    "estado": "ok",
+    "notas": []
+   },
+   "url_fuente": "https://publicreporting.cftc.gov/stories/s/Commitments-of-Traders/r4w3-av2u/",
+   "licencia": "dominio público (gobierno de EE. UU.)"
+  },
+  {
+   "fuente": "CFTC · Commitments of Traders",
+   "fuente_id": "cftc_cot",
+   "tipo": "posicion",
+   "producto": "cafe",
+   "variedad": "arábica",
+   "mercado": "ICE Nueva York",
+   "zona": "mundo",
+   "unidad": "contratos",
+   "moneda": null,
+   "valor": 10932,
+   "que_es_valor": "posición neta de los fondos (managed money): contratos comprados menos vendidos",
+   "fecha": "2026-11-10",
+   "n_reportes": 338,
+   "rango": {
+    "min": 10932,
+    "max": 72818,
+    "semanas": 156
+   },
+   "confianza": "oficial",
+   "senal": {
+    "neto_pct_interes_abierto": 7.1,
+    "cambio_neto_semana": -3800,
+    "percentil_3_anios": 1,
+    "lectura": "Fondos en café: comprados en neto, 10.932 contratos (+7,1 % del interés abierto); vendieron 3.800 contratos en la semana. Su posición supera o iguala la del 1 % de las semanas de los últimos 3 años."
+   },
+   "detalle": {
+    "interes_abierto": 154019,
+    "contrato": "contracts of 37,500 pounds",
+    "categorias": {
+     "productores": {
+      "largo": 36543,
+      "corto": 54965,
+      "spread": 0,
+      "neto": -18422,
+      "cambio_neto": 948
+     },
+     "swaps": {
+      "largo": 26671,
+      "corto": 17508,
+      "spread": 3368,
+      "neto": 9163,
+      "cambio_neto": 3708
+     },
+     "fondos": {
+      "largo": 32213,
+      "corto": 21281,
+      "spread": 18341,
+      "neto": 10932,
+      "cambio_neto": -3800
+     },
+     "otros": {
+      "largo": 9872,
+      "corto": 12817,
+      "spread": 19221,
+      "neto": -2945,
+      "cambio_neto": -169
+     },
+     "no_reportables": {
+      "largo": 7790,
+      "corto": 6518,
+      "spread": 0,
+      "neto": 1272,
+      "cambio_neto": -687
+     }
+    }
+   },
+   "validacion": {
+    "estado": "ok",
+    "notas": []
+   },
+   "url_fuente": "https://publicreporting.cftc.gov/stories/s/Commitments-of-Traders/r4w3-av2u/",
+   "licencia": "dominio público (gobierno de EE. UU.)"
+  },
+  {
+   "fuente": "CFTC · Commitments of Traders",
+   "fuente_id": "cftc_cot",
+   "tipo": "posicion",
+   "producto": "azucar",
+   "variedad": "crudo n.º 11",
+   "mercado": "ICE Nueva York",
+   "zona": "mundo",
+   "unidad": "contratos",
+   "moneda": null,
+   "valor": 195801,
+   "que_es_valor": "posición neta de los fondos (managed money): contratos comprados menos vendidos",
+   "fecha": "2026-11-10",
+   "n_reportes": 284,
+   "rango": {
+    "min": -238217,
+    "max": 264530,
+    "semanas": 156
+   },
+   "confianza": "oficial",
+   "senal": {
+    "neto_pct_interes_abierto": 17.1,
+    "cambio_neto_semana": -27983,
+    "percentil_3_anios": 93,
+    "lectura": "Fondos en azúcar: comprados en neto, 195.801 contratos (+17,1 % del interés abierto); vendieron 27.983 contratos en la semana. Su posición supera o iguala la del 93 % de las semanas de los últimos 3 años."
+   },
+   "detalle": {
+    "interes_abierto": 1145979,
+    "contrato": "contracts of 112,000 pounds",
+    "categorias": {
+     "productores": {
+      "largo": 217528,
+      "corto": 533233,
+      "spread": 0,
+      "neto": -315705,
+      "cambio_neto": 27522
+     },
+     "swaps": {
+      "largo": 255904,
+      "corto": 140466,
+      "spread": 25115,
+      "neto": 115438,
+      "cambio_neto": 1559
+     },
+     "fondos": {
+      "largo": 282239,
+      "corto": 86438,
+      "spread": 140893,
+      "neto": 195801,
+      "cambio_neto": -27983
+     },
+     "otros": {
+      "largo": 54588,
+      "corto": 92841,
+      "spread": 75939,
+      "neto": -38253,
+      "cambio_neto": 58
+     },
+     "no_reportables": {
+      "largo": 93773,
+      "corto": 51054,
+      "spread": 0,
+      "neto": 42719,
+      "cambio_neto": -1156
+     }
+    }
+   },
+   "validacion": {
+    "estado": "ok",
+    "notas": []
+   },
+   "url_fuente": "https://publicreporting.cftc.gov/stories/s/Commitments-of-Traders/r4w3-av2u/",
+   "licencia": "dominio público (gobierno de EE. UU.)"
+  }
+ ]
+}
