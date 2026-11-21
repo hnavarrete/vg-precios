@@ -1,10 +1,10 @@
 {
  "contrato": "vg-precios/1",
- "generado": "2026-11-16T23:40:44+00:00",
- "fecha_ecuador": "2026-11-16",
+ "generado": "2026-11-21T03:12:11+00:00",
+ "fecha_ecuador": "2026-11-20",
  "fuentes": {
   "cftc_cot": {
-   "fecha": "2026-11-10",
+   "fecha": "2026-11-17",
    "estado": "ok"
   }
  },
@@ -19,10 +19,10 @@
    "zona": "mundo",
    "unidad": "contratos",
    "moneda": null,
-   "valor": -18845,
+   "valor": -19213,
    "que_es_valor": "posición neta de los fondos (managed money): contratos comprados menos vendidos",
-   "fecha": "2026-11-10",
-   "n_reportes": 215,
+   "fecha": "2026-11-17",
+   "n_reportes": 212,
    "rango": {
     "min": -23084,
     "max": 82572,
@@ -30,49 +30,49 @@
    },
    "confianza": "oficial",
    "senal": {
-    "neto_pct_interes_abierto": -10.3,
-    "cambio_neto_semana": -6592,
+    "neto_pct_interes_abierto": -11.3,
+    "cambio_neto_semana": -368,
     "percentil_3_anios": 2,
-    "lectura": "Fondos en cacao: vendidos en neto, 18.845 contratos (-10,3 % del interés abierto); vendieron 6.592 contratos en la semana. Su posición supera o iguala la del 2 % de las semanas de los últimos 3 años."
+    "lectura": "Fondos en cacao: vendidos en neto, 19.213 contratos (-11,3 % del interés abierto); vendieron 368 contratos en la semana. Su posición supera o iguala la del 2 % de las semanas de los últimos 3 años."
    },
    "detalle": {
-    "interes_abierto": 182266,
+    "interes_abierto": 170032,
     "contrato": "contracts of 10 metric tons",
     "categorias": {
      "productores": {
-      "largo": 46307,
-      "corto": 61945,
+      "largo": 43694,
+      "corto": 59393,
       "spread": 0,
-      "neto": -15638,
-      "cambio_neto": 7612
+      "neto": -15699,
+      "cambio_neto": -61
      },
      "swaps": {
-      "largo": 41479,
-      "corto": 8561,
-      "spread": 9887,
-      "neto": 32918,
-      "cambio_neto": 1544
+      "largo": 42438,
+      "corto": 8895,
+      "spread": 6995,
+      "neto": 33543,
+      "cambio_neto": 625
      },
      "fondos": {
-      "largo": 16617,
-      "corto": 35462,
-      "spread": 25667,
-      "neto": -18845,
-      "cambio_neto": -6592
+      "largo": 15912,
+      "corto": 35125,
+      "spread": 25705,
+      "neto": -19213,
+      "cambio_neto": -368
      },
      "otros": {
-      "largo": 12523,
-      "corto": 10541,
-      "spread": 18678,
-      "neto": 1982,
-      "cambio_neto": -1004
+      "largo": 10361,
+      "corto": 8801,
+      "spread": 14967,
+      "neto": 1560,
+      "cambio_neto": -422
      },
      "no_reportables": {
-      "largo": 11108,
-      "corto": 11525,
+      "largo": 9960,
+      "corto": 10151,
       "spread": 0,
-      "neto": -417,
-      "cambio_neto": -1560
+      "neto": -191,
+      "cambio_neto": 226
      }
     }
    },
@@ -93,60 +93,60 @@
    "zona": "mundo",
    "unidad": "contratos",
    "moneda": null,
-   "valor": 10932,
+   "valor": 9023,
    "que_es_valor": "posición neta de los fondos (managed money): contratos comprados menos vendidos",
-   "fecha": "2026-11-10",
-   "n_reportes": 338,
+   "fecha": "2026-11-17",
+   "n_reportes": 318,
    "rango": {
-    "min": 10932,
+    "min": 9023,
     "max": 72818,
     "semanas": 156
    },
    "confianza": "oficial",
    "senal": {
-    "neto_pct_interes_abierto": 7.1,
-    "cambio_neto_semana": -3800,
+    "neto_pct_interes_abierto": 6.4,
+    "cambio_neto_semana": -1909,
     "percentil_3_anios": 1,
-    "lectura": "Fondos en café: comprados en neto, 10.932 contratos (+7,1 % del interés abierto); vendieron 3.800 contratos en la semana. Su posición supera o iguala la del 1 % de las semanas de los últimos 3 años."
+    "lectura": "Fondos en café: comprados en neto, 9.023 contratos (+6,4 % del interés abierto); vendieron 1.909 contratos en la semana. Su posición supera o iguala la del 1 % de las semanas de los últimos 3 años."
    },
    "detalle": {
-    "interes_abierto": 154019,
+    "interes_abierto": 140012,
     "contrato": "contracts of 37,500 pounds",
     "categorias": {
      "productores": {
-      "largo": 36543,
-      "corto": 54965,
+      "largo": 32085,
+      "corto": 51472,
       "spread": 0,
-      "neto": -18422,
-      "cambio_neto": 948
+      "neto": -19387,
+      "cambio_neto": -965
      },
      "swaps": {
-      "largo": 26671,
-      "corto": 17508,
-      "spread": 3368,
-      "neto": 9163,
-      "cambio_neto": 3708
+      "largo": 27821,
+      "corto": 17421,
+      "spread": 2116,
+      "neto": 10400,
+      "cambio_neto": 1237
      },
      "fondos": {
-      "largo": 32213,
-      "corto": 21281,
-      "spread": 18341,
-      "neto": 10932,
-      "cambio_neto": -3800
+      "largo": 29982,
+      "corto": 20959,
+      "spread": 18455,
+      "neto": 9023,
+      "cambio_neto": -1909
      },
      "otros": {
-      "largo": 9872,
-      "corto": 12817,
-      "spread": 19221,
-      "neto": -2945,
-      "cambio_neto": -169
+      "largo": 8020,
+      "corto": 7993,
+      "spread": 14818,
+      "neto": 27,
+      "cambio_neto": 2972
      },
      "no_reportables": {
-      "largo": 7790,
-      "corto": 6518,
+      "largo": 6715,
+      "corto": 6778,
       "spread": 0,
-      "neto": 1272,
-      "cambio_neto": -687
+      "neto": -63,
+      "cambio_neto": -1335
      }
     }
    },
@@ -167,10 +167,10 @@
    "zona": "mundo",
    "unidad": "contratos",
    "moneda": null,
-   "valor": 195801,
+   "valor": 187043,
    "que_es_valor": "posición neta de los fondos (managed money): contratos comprados menos vendidos",
-   "fecha": "2026-11-10",
-   "n_reportes": 284,
+   "fecha": "2026-11-17",
+   "n_reportes": 279,
    "rango": {
     "min": -238217,
     "max": 264530,
@@ -178,49 +178,49 @@
    },
    "confianza": "oficial",
    "senal": {
-    "neto_pct_interes_abierto": 17.1,
-    "cambio_neto_semana": -27983,
-    "percentil_3_anios": 93,
-    "lectura": "Fondos en azúcar: comprados en neto, 195.801 contratos (+17,1 % del interés abierto); vendieron 27.983 contratos en la semana. Su posición supera o iguala la del 93 % de las semanas de los últimos 3 años."
+    "neto_pct_interes_abierto": 16.3,
+    "cambio_neto_semana": -8758,
+    "percentil_3_anios": 92,
+    "lectura": "Fondos en azúcar: comprados en neto, 187.043 contratos (+16,3 % del interés abierto); vendieron 8.758 contratos en la semana. Su posición supera o iguala la del 92 % de las semanas de los últimos 3 años."
    },
    "detalle": {
-    "interes_abierto": 1145979,
+    "interes_abierto": 1144499,
     "contrato": "contracts of 112,000 pounds",
     "categorias": {
      "productores": {
-      "largo": 217528,
-      "corto": 533233,
+      "largo": 226105,
+      "corto": 529042,
       "spread": 0,
-      "neto": -315705,
-      "cambio_neto": 27522
+      "neto": -302937,
+      "cambio_neto": 12768
      },
      "swaps": {
-      "largo": 255904,
-      "corto": 140466,
-      "spread": 25115,
-      "neto": 115438,
-      "cambio_neto": 1559
+      "largo": 252889,
+      "corto": 143556,
+      "spread": 23908,
+      "neto": 109333,
+      "cambio_neto": -6105
      },
      "fondos": {
-      "largo": 282239,
-      "corto": 86438,
-      "spread": 140893,
-      "neto": 195801,
-      "cambio_neto": -27983
+      "largo": 276084,
+      "corto": 89041,
+      "spread": 136405,
+      "neto": 187043,
+      "cambio_neto": -8758
      },
      "otros": {
-      "largo": 54588,
-      "corto": 92841,
-      "spread": 75939,
-      "neto": -38253,
-      "cambio_neto": 58
+      "largo": 55470,
+      "corto": 94217,
+      "spread": 77017,
+      "neto": -38747,
+      "cambio_neto": -494
      },
      "no_reportables": {
-      "largo": 93773,
-      "corto": 51054,
+      "largo": 96621,
+      "corto": 51313,
       "spread": 0,
-      "neto": 42719,
-      "cambio_neto": -1156
+      "neto": 45308,
+      "cambio_neto": 2589
      }
     }
    },
